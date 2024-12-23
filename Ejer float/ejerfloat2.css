@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+h1{
+    width: 100%;
+    margin-top: 40px;
+    margin-left: 10px;
+    font-size: 45px;
+}
+
+.columna{
+    float: right;
+    width: 20%;
+    height: 180px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+#uno{
+    background-color: #FF0000;
+    float: left;
+    width: 48%;
+    height: 420px;
+}
+#dos{
+    background-color: #008000;
+    float: left;
+}
+#tres{
+    background-color: #FFFF00;
+    float: left;
+}
+#cuatro{
+    background-color: #0000FF;
+    float: left;
+}
+#cinco{
+    background-color: #800080;
+    float: left;
+}
+
+#news{
+    float: left;
+    margin-top: 30px;
+}
+
+.columna2{
+    float: left;
+    width: 442px;
+    height: 180px;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+#seis{
+    background-color: #FF0000;
+}
+#siete{
+    background-color: #008000;
+}
+#ocho{
+    background-color: #0000FF;
+}

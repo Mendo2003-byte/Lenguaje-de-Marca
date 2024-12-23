@@ -1,0 +1,39 @@
+*{padding: 0;
+    margin: 0;
+}
+body{background-image: url(imagenes/background.jpg);}
+h1{background-image: url(imagenes/cabecera.jpg);
+    text-align:center; size: 100%; 
+}
+
+table{border:solid red 3px; 
+    border-collapse:collapse; 
+    margin-left: 580px;margin-right: 600px; 
+    background-color: cadetblue; 
+    position: absolute;
+}
+th{border: solid red 3px; 
+    height: 250px; 
+}
+
+
+img{height: 150px; 
+    margin-top: 15px; 
+}
+a{text-align: left;
+    background-color: blueviolet;
+    color: white; 
+    text-decoration: none; 
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+    padding-left: 60px; 
+    padding-right: 60px; 
+    font-size: 30px;
+}
+
+
+#mario{background-color: blueviolet; color: white; margin-left: 35px; margin-right: 35px;}
+p{margin-top: 25px; margin-left:5px ; margin-right: 5px;}
+.no{padding-bottom: 10px;}
+.espacios{padding-bottom: 20px;}
+th{color: white; font-size: 30px; }
